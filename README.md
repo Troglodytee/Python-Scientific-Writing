@@ -8,4 +8,4 @@ This is a program that gives the scientific writing of a number that you type.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
+- Python `tkinter` library
